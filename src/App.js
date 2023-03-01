@@ -1,10 +1,11 @@
+import Navbar from "./Navbar";
 
 function App() {
-  return (
-    <div className="App">
-      <h1 className={'text-8xl'}>Hello</h1>
-    </div>
-  );
+    return (
+        <div>
+            <Navbar appName='Charity Navigator'/>
+        </div>
+    );
 }
 
 export default App;
