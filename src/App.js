@@ -5,7 +5,7 @@ function App() {
     return (
         <div>
             <Navbar appName='Charity Navigator'/>
-            <InputDD appName='Charity Navigator'/>
+            <InputDD />
 
         </div>
     );
